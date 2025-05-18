@@ -1,0 +1,19 @@
+.book-container {
+  padding: 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.book-card {
+  background-color: #f4f4f4;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 10px;
+  border-left: 5px solid #007acc;
+  transition: 0.3s ease;
+}
+
+.book-card:hover {
+  background-color: #e0f0ff;
+}
